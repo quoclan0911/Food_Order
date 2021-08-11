@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44A7831A-C010-4658-9933-82DEF7AC5019"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77FB0CB9-39C7-49B8-B81B-4983B00BADAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "didClickBackButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A5BBED9-3EC4-409C-A281-F42C0E0FA078"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "DetailsFoodViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08B24D17-2E4D-4D13-97B1-E5CBD87564DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B124DB7B-333C-4335-9C02-14EB2A991E34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D5DF877-D68F-48FC-9ECC-722DF132EDD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBAB3274-5041-4D53-9536-49D321F1B7EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "558DB89D-DF10-4A05-96A5-3F547DCAFA24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA9E4007-8E65-4BE7-9990-25888E554BDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "089D7CDB-BA5F-49CA-B9CF-F2D841A1A183"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - 6691a247fe40191"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - 565b10907b256de5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - 421431039f1f6492"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - 3d35c9ab22081bc2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - a9d3a8b66a495f74"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; demoFood.FoodViewController"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "270">
+               </Location>
+               <Location
+                  uuid = "F192D4DF-691C-4E74-AF38-AD5519F32DA2 - 123f427abe35946a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;demoFood.FoodViewController&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/demoFood/demoFood/FoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56918C18-7B49-4DA1-9456-DBE92EC234CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7DAE797-663E-40B2-A521-570B19DAE3EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "passingData(avatar:name:quantity:money:infor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0DC8A00-22D7-436E-8358-4F6752D02BFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A401969-4AC0-4B9B-9406-4C5DB607B6E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B07B3E6-4ABA-47CC-86AB-1A5002A6FF27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4B94EBC-C246-4D54-B5CE-C17089C3060C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95217909-95F4-42E8-8D00-E80D877D4D70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0695112-5CED-44B2-AC31-D1987422DC76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "dataFood()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94ED6BD2-36BC-4E61-9498-23F4A564C3E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E6492D1-8E1C-459A-8FDB-20406F12599F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/SecondAddFoodVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "SecondAddFoodVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "FoodTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - d9dde63d94e96d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.indexPath.getter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - 46168cd095d886df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.indexPath.setter : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - ad5927044ba71ad0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.indexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - 5cb1ac8b2f0b0f72"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.indexPath.modify : Swift.Optional&lt;Foundation.IndexPath&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - c96a4fa6b29513bc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; demoFood.FoodTableViewCell"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "9C5A27B3-CE3D-4E59-A75B-FEFDF0770529 - eb0dc4f6bf4e1d93"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;demoFood.FoodTableViewCell&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "614">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "480AC1ED-1268-45B0-898D-B41733677C4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getAvatar(urlString:indexPath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "480AC1ED-1268-45B0-898D-B41733677C4A - f6eda02091ca091f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.FoodTableViewCell.(getAvatar in _291579F245ACDF149A6B989287B72ECD)(urlString: Swift.String, indexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "480AC1ED-1268-45B0-898D-B41733677C4A - db2be883bde6c8b1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in demoFood.FoodTableViewCell.(getAvatar in _291579F245ACDF149A6B989287B72ECD)(urlString: Swift.String, indexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "395">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B06B8B8-8237-44B2-8345-200DF122CF56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setup(foodModel:indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A42F9B8-CBF4-463B-8A87-B144EE3E3EC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Controller /GetAvatar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getAvatar(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53B66555-B606-40F3-89BA-8CC2BC765A3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Controller /GetAvatar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getAvatar(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26026FB4-6E7C-4ECA-AFA1-A84644A5EF04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/DetailsFoodVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "display()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F09C99-8704-4F2D-94E9-3C0BCEA1ABCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/EditFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "722B4AC7-C0AD-4DCE-8DE8-17DDB93C0490"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/EditFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/EditFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "EditFoodViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 684c8fd426570e78"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.avatarURL.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 3f615ef58cc7df8c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.avatarURL.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 578df7890e702a7b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.avatarURL.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 9d4a6f4963051b1e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.avatarURL.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 208deb981085c609"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; demoFood.EditFoodViewController"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "E321B2D4-DE79-4DBE-BC14-ADCB4957EF30 - 4dcb340cc9f64302"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.EditFoodViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;demoFood.EditFoodViewController&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/ViewController/EditFoodViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D74122D7-C27F-4E4C-BCC5-73E0BDE5E693"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/EditFoodViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "didCLuuButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Controller /GetAvatar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "GetAvatar"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505 - 6eddfa49463de218"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.GetAvatar.imageCache.getter : __C.NSCache&lt;__C.NSString, __C.UIImage&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/Controller%20/GetAvatar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505 - 55f23628d8b5ba14"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.GetAvatar.imageCache.setter : __C.NSCache&lt;__C.NSString, __C.UIImage&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/Controller%20/GetAvatar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505 - 894125c3dfb70465"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.GetAvatar.imageCache.modify : __C.NSCache&lt;__C.NSString, __C.UIImage&gt;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/Controller%20/GetAvatar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505 - e3b369de80e45436"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.GetAvatar.imageCache.modify : __C.NSCache&lt;__C.NSString, __C.UIImage&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/Controller%20/GetAvatar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "2F0DA260-2C4C-4D04-95D4-A98EA0101505 - e391d68bf637d119"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.GetAvatar.init() -&gt; demoFood.GetAvatar"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/Controller%20/GetAvatar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15EB1FBB-EAE1-4B30-A358-9D96B9C5C196"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Controller /GetAvatar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getAvatar(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EC06A2D-E0B8-407E-9A21-D19520A33633"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Controller /GetAvatar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAvatar(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ECCCFF9-689F-4061-B4CB-52C9BCF9A8BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/FoodTableViewCell/FoodTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "FoodTableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F4F115A-E27C-4867-BC33-9975FDB4F531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/ViewController/Onboarding/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "OnboardingViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD79EFBC-967B-4058-988C-A57861425FBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/OnboardingCollectionViewCell/OnboardingCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "OnboardingCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AD79EFBC-967B-4058-988C-A57861425FBE - 50e313cf4dca8e4d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_B4E1C5393CD647E50C843427E022B8C9_func0"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/OnboardingCollectionViewCell/OnboardingCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AD79EFBC-967B-4058-988C-A57861425FBE - 7080eeadcf4639ef"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoFood.OnboardingCollectionViewCell.identifier.unsafeMutableAddressor : Swift.String"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/OnboardingCollectionViewCell/OnboardingCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AD79EFBC-967B-4058-988C-A57861425FBE - 7c8e02e36195d326"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static demoFood.OnboardingCollectionViewCell.identifier.getter : Swift.String"
+                  moduleName = "demoFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asus/Desktop/Food%20Order%20./demoFood/OnboardingCollectionViewCell/OnboardingCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F47B6F8-F881-4D3B-9A17-B57A824BFAC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoFood/Delegate.swift/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

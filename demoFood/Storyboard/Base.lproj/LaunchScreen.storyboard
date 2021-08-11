@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="gDo-SA-DMA">
+                                <rect key="frame" x="57" y="136.5" width="300" height="257.5"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="foodLogo" translatesAutoresizingMaskIntoConstraints="NO" id="LqF-C9-dLt">
+                                        <rect key="frame" x="0.0" y="0.0" width="300" height="151.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="151.5" id="OCg-7m-Sdg"/>
+                                            <constraint firstAttribute="width" constant="300" id="RTQ-4H-Baa"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Order" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gtO-bZ-pIn">
+                                        <rect key="frame" x="74.5" y="157.5" width="151.5" height="100"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="100" id="c4U-WV-IgC"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="MarkerFelt-Wide" family="Marker Felt" pointSize="62"/>
+                                        <color key="textColor" red="0.89378553628921509" green="0.36995241045951843" blue="0.31223729252815247" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sticker_shipper" translatesAutoresizingMaskIntoConstraints="NO" id="Uuf-UK-w2O">
+                                <rect key="frame" x="0.0" y="394" width="414" height="458"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="458" id="Kca-jf-dEZ"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Đang tải..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DVB-5u-kZl">
+                                <rect key="frame" x="168.5" y="825.5" width="77.5" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.63529411759999999" green="0.5069699755" blue="0.3902941177" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="Uuf-UK-w2O" firstAttribute="top" secondItem="gDo-SA-DMA" secondAttribute="bottom" id="4Ec-Ck-NcR"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Uuf-UK-w2O" secondAttribute="bottom" constant="10" id="AEL-7O-rb2"/>
+                            <constraint firstItem="Uuf-UK-w2O" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="BKI-7f-1QV"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Uuf-UK-w2O" secondAttribute="trailing" id="Qzp-mf-a6V"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="DVB-5u-kZl" secondAttribute="bottom" constant="16" id="Yth-m8-boV"/>
+                            <constraint firstItem="DVB-5u-kZl" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="eK6-uo-OcG"/>
+                            <constraint firstItem="gDo-SA-DMA" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="k5I-e1-Jde"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="189.85507246376812" y="258.48214285714283"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="foodLogo" width="1000" height="1000"/>
+        <image name="sticker_shipper" width="5000" height="5000"/>
+    </resources>
+</document>

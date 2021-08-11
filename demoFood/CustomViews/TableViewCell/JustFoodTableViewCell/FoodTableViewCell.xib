@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleAspectFit" semanticContentAttribute="spatial" selectionStyle="blue" accessoryType="disclosureIndicator" indentationWidth="0.0" reuseIdentifier="FoodTableViewCell" focusStyle="custom" rowHeight="110" id="JnX-FL-DUd" customClass="FoodTableViewCell" customModule="demoFood" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="500" height="120"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="JnX-FL-DUd" id="mwV-Lw-qM1">
+                <rect key="frame" x="0.0" y="0.0" width="469" height="120"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="trasua" translatesAutoresizingMaskIntoConstraints="NO" id="Lcf-fn-rUC">
+                        <rect key="frame" x="16" y="10" width="100" height="100"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="Lcf-fn-rUC" secondAttribute="height" multiplier="1:1" id="JQc-sE-Iif"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <integer key="value" value="15"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trà sữa" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="umB-Rk-d1m">
+                        <rect key="frame" x="132" y="8" width="321" height="29.5"/>
+                        <fontDescription key="fontDescription" name="Verdana" family="Verdana" pointSize="24"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="500 ml" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AAg-Mv-w9i">
+                        <rect key="frame" x="136" y="40.5" width="53.5" height="20.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" systemColor="systemBrownColor" red="0.63529411759999999" green="0.51764705879999995" blue="0.36862745099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="20.000" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dw2-li-alN">
+                        <rect key="frame" x="145" y="83" width="54.5" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="1" green="0.14863985399999999" blue="0.099690483359999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wmc-rN-Wg1">
+                        <rect key="frame" x="132" y="83" width="11" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="1" green="0.14863985399999999" blue="0.099690483359999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="Lcf-fn-rUC" secondAttribute="bottom" constant="10" id="1kT-VP-5Ro"/>
+                    <constraint firstItem="Dw2-li-alN" firstAttribute="leading" secondItem="Wmc-rN-Wg1" secondAttribute="trailing" constant="2" id="3Xw-eh-Bg3"/>
+                    <constraint firstItem="Lcf-fn-rUC" firstAttribute="leading" secondItem="mwV-Lw-qM1" secondAttribute="leading" constant="16" id="GeJ-mu-4qj"/>
+                    <constraint firstItem="umB-Rk-d1m" firstAttribute="leading" secondItem="Lcf-fn-rUC" secondAttribute="trailing" constant="16" id="Jbb-YJ-K8t"/>
+                    <constraint firstAttribute="bottom" secondItem="Dw2-li-alN" secondAttribute="bottom" constant="16" id="KIP-QO-4XQ"/>
+                    <constraint firstItem="AAg-Mv-w9i" firstAttribute="leading" secondItem="Lcf-fn-rUC" secondAttribute="trailing" constant="20" id="RKE-d3-CbY"/>
+                    <constraint firstItem="Wmc-rN-Wg1" firstAttribute="leading" secondItem="Lcf-fn-rUC" secondAttribute="trailing" constant="16" id="VCN-5e-WcE"/>
+                    <constraint firstItem="AAg-Mv-w9i" firstAttribute="top" secondItem="umB-Rk-d1m" secondAttribute="bottom" constant="3" id="WR9-aB-OLv"/>
+                    <constraint firstItem="umB-Rk-d1m" firstAttribute="top" secondItem="mwV-Lw-qM1" secondAttribute="top" constant="8" id="beh-uG-2um"/>
+                    <constraint firstAttribute="trailing" secondItem="umB-Rk-d1m" secondAttribute="trailing" constant="16" id="c6M-wx-oT4"/>
+                    <constraint firstItem="Lcf-fn-rUC" firstAttribute="top" secondItem="mwV-Lw-qM1" secondAttribute="top" constant="10" id="drP-nN-oKK"/>
+                    <constraint firstAttribute="bottom" secondItem="Wmc-rN-Wg1" secondAttribute="bottom" constant="16" id="qCv-8F-noE"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="oeH-kV-oc9"/>
+            <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                    <integer key="value" value="50"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="avatarFoodImageView" destination="Lcf-fn-rUC" id="96h-WX-qrd"/>
+                <outlet property="moneyFoodLabel" destination="Dw2-li-alN" id="wHv-ba-d3V"/>
+                <outlet property="nameFoodLabel" destination="umB-Rk-d1m" id="cx8-W8-1S5"/>
+                <outlet property="quantityFoodLabel" destination="AAg-Mv-w9i" id="1Y5-VU-eWg"/>
+            </connections>
+            <point key="canvasLocation" x="1500.0000000000002" y="40.848214285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="trasua" width="16" height="16"/>
+    </resources>
+</document>

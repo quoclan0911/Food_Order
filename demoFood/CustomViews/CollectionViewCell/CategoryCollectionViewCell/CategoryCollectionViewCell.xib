@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CategoryCollectionViewCell" id="gTV-IL-0wX" customClass="CategoryCollectionViewCell" customModule="demoFood" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="150" height="56"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="150" height="56"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yWz-JL-57m" customClass="CardView" customModule="demoFood" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="150" height="56"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Liw-vT-B2v" customClass="ImageView" customModule="demoFood" customModuleProvider="target">
+                                <rect key="frame" x="8" y="8" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="gcf-Wf-CGA"/>
+                                    <constraint firstAttribute="width" constant="40" id="mFA-ay-q4f"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XoQ-5u-uky">
+                                <rect key="frame" x="56" y="20" width="86" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="Liw-vT-B2v" secondAttribute="bottom" constant="8" id="51Y-Zr-2O6"/>
+                            <constraint firstItem="XoQ-5u-uky" firstAttribute="centerY" secondItem="Liw-vT-B2v" secondAttribute="centerY" id="BaC-NC-enu"/>
+                            <constraint firstItem="Liw-vT-B2v" firstAttribute="top" secondItem="yWz-JL-57m" secondAttribute="top" constant="8" id="Byt-IS-Gz5"/>
+                            <constraint firstItem="Liw-vT-B2v" firstAttribute="leading" secondItem="yWz-JL-57m" secondAttribute="leading" constant="8" id="JBx-zM-avP"/>
+                            <constraint firstAttribute="trailing" secondItem="XoQ-5u-uky" secondAttribute="trailing" constant="8" id="JrV-Cd-uyW"/>
+                            <constraint firstItem="XoQ-5u-uky" firstAttribute="leading" secondItem="Liw-vT-B2v" secondAttribute="trailing" constant="8" id="d5N-c4-urY"/>
+                            <constraint firstAttribute="height" constant="56" id="l01-L3-cbh"/>
+                            <constraint firstAttribute="width" constant="150" id="lPD-95-QoF"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="yWz-JL-57m" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="Cmo-gz-UOs"/>
+                <constraint firstItem="yWz-JL-57m" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="LPx-YE-0Ng"/>
+                <constraint firstAttribute="trailing" secondItem="yWz-JL-57m" secondAttribute="trailing" id="Y4O-Gy-5Dp"/>
+                <constraint firstAttribute="bottom" secondItem="yWz-JL-57m" secondAttribute="bottom" id="lDV-W3-QoH"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="150" height="59"/>
+            <connections>
+                <outlet property="categoryImageView" destination="Liw-vT-B2v" id="ohB-LU-FaB"/>
+                <outlet property="categoryTitleLabel" destination="XoQ-5u-uky" id="yc9-7y-3Nt"/>
+            </connections>
+            <point key="canvasLocation" x="204.34782608695653" y="86.383928571428569"/>
+        </collectionViewCell>
+    </objects>
+</document>
